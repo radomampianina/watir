@@ -1,3 +1,3 @@
 # watir
-Spotify n'est pas accessible par les ip à Madagascar
+Spotify is currently not available in your country. 
 # sauf si on change d'ip
